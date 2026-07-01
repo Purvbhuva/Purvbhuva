@@ -30,11 +30,9 @@ Here are some of the languages and technologies I am proficient in:
 
 ---
 
-### 💼 Achievements & Credentials
+### 💼  Credentials
 
 *   **HP LIFE Certification:** Certified in Data Science and Analytics, focusing on diagnostic statistical practices and predictive tools.
-*   **Academic Excellence:** Maintaining an 8.12 CGPA in my Computer Science Honours program.
-
 ---
 
 ### 🤝 Collaboration and Feedback
