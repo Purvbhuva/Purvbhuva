@@ -1,5 +1,3 @@
-# PurvBhuva / README.md
-
 Hi, I'm Purv Bhuva 👋
 
 ### Full Stack Developer & Machine Learning Enthusiast
